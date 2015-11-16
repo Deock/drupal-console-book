@@ -1,16 +1,16 @@
-# Where do I find the project?
+# ¿Dónde puedo encontrar el proyecto?
 
-## Project landing page
+## Landing Page del proyecto
 http://drupalconsole.com
 
-## Github repository
+## Repositorio en Github
 https://github.com/hechoendrupal/DrupalConsole
 
-## Documentation
+## Documentación
 http://hechoendrupal.gitbooks.io/drupal-console
 
-## Support chat
+## Soporte por chat
 https://gitter.im/hechoendrupal/DrupalConsole
 
-## More information on Drupal.org project page
+## Más información en la página del proyecto en Drupal.org
 https://drupal.org/project/console
